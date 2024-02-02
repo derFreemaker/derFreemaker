@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## Working on
+- SphinxOS: OS for [FicsIt-Networks](https://github.com/Panakotta00/FicsIt-Networks) Mod from Satisfactory
+
+## Maintained Repos
+- [FicsIt-Networks-Documentation](https://github.com/derFreemaker/FicsIt-Networks-Documentation) (WIP)
+
+## Licensing
+Every piece of code is mainly as is. I <u>DONT</u> guarantee on anything and take <u>NO</u> responsibility for any damages.
+
 <!--
 **derFreemaker/derFreemaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
